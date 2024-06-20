@@ -1,0 +1,48 @@
+{
+  "teams": [
+    {
+      "name": "global-cool-demo1",
+      "location": "westeurope"
+    },
+    {
+      "name": "global-cool-demo2",
+      "location": "westeurope"
+    },
+    {
+      "name": "global-cool-demo3",
+      "location": "westeurope"
+    },
+    {
+      "name": "global-cool-demo4",
+      "location": "westeurope"
+    },
+    {
+      "name": "global-cool-demo5",
+      "location": "westeurope"
+    },
+    {
+      "name": "global-cool-demo6",
+      "location": "westeurope"
+    },
+    {
+      "name": "global-cool-demo7",
+      "location": "westeurope"
+    },
+    {
+      "name": "global-cool-demo8",
+      "location": "westeurope"
+    },
+    {
+      "name": "global-cool-demo9",
+      "location": "westeurope"
+    },
+    {
+      "name": "global-cool-demo10",
+      "location": "westeurope"
+    }
+  ],
+  "template": {
+    "owner": "Trijssenaar",
+    "repository": "event-app"
+  }
+}

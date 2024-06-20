@@ -1,0 +1,20 @@
+{
+  "teams": [
+    {
+      "name": "cooldemo1",
+      "challenge": "codeowners"
+    },
+    {
+      "name": "cooldemo1",
+      "challenge": "codespaces"
+    },
+    {
+      "name": "cooldemo2",
+      "challenge": "codeowners"
+    },
+    {
+      "name": "cooldemo2",
+      "challenge": "codespaces"
+    }
+  ]
+}
